@@ -147,5 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletAdk: 5
-  penetration: 0
+  bulletSpeed: 30
+  penetration: 1
   enableColliderDistance: 1.5
+  bulletLifetime: 2
